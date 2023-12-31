@@ -58,7 +58,7 @@
 | ------------- | ---------- | ------------------------------ |
 | content       | string     |                                |
 | user          | references | null: false, foreign_key: true |
-| item          | references | null: false, foreign_key: true |
+| issue          | references | null: false, foreign_key: true |
 
 ### Association
 
